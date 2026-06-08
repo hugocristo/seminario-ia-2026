@@ -40,8 +40,7 @@ Prof. Dr. Hugo Cristo Sant'Anna: [hugo.cristo@ufes.br](mailto:hugo.cristo@ufes.b
 
 ### Links da aula
 * Stanford (2016): [One Hundred Year Study on Artificial Intelligence](https://ai100.stanford.edu/2016-report)
-* [Um modelo da OpenAI refutou uma conjectura central da geometria discreta](https://openai.com/pt-BR/index/model-disproves-discrete-geometry-conjecture/)
-
+* Open AI: (2026): [Um modelo refutou uma conjectura central da geometria discreta](https://openai.com/pt-BR/index/model-disproves-discrete-geometry-conjecture/)
 * Welch Labs: [ChatGPT is made from 100 million of these [The Perceptron]](https://www.youtube.com/watch?v=l-9ALe3U-Fg)
 * CFP - Notícias (2025): [CFP lança cartilhas destacando a IA na Psicologia](https://site.cfp.org.br/cfp-lanca-cartilhas-destacando-a-inteligencia-artificial-na-psicologia/)
 * Gizmodo (2023): [Como chatbots podem reforçar distúrbios alimentares, segundo este estudo](https://gizmodo.uol.com.br/como-chatbots-podem-reforcar-disturbios-alimentares-segundo-este-estudo/)
