@@ -100,7 +100,7 @@ Prof. Dr. Hugo Cristo Sant'Anna: [hugo.cristo@ufes.br](mailto:hugo.cristo@ufes.b
 * Da Silva, J. A. (2003). *Inteligência humana: abordagens biológicas e cognitivas*. São Paulo: Lovise.
 * Feigenbaum, E. A., & McCorduck, P. (1983). *The fifth generation*. Addison-Wesley Pub. Disponível em [Open Library](https://archive.org/details/fifthgenerationa0000feig)
 * Feigenbaum, E., McCorduck, P., & Nii, H. P. (1988). *The rise of the expert company*. Times Books. Disponível em [OpenLibrary](https://archive.org/details/riseofexpertco00feig/mode/1up)
-* James, W. (1910). Psychology (vol 1). Holt.
+* James, W. (1910). *Psychology* (vol 1). Holt.
 * Mitchell, M. (2019). *Artificial Intelligence: a guide for thinking humans*. New York: Farrar, Straus and Giroux.
 * Piaget, J. (1937/2003). *A construção do real na criança*. 5ª reimpressão. São Paulo: Ática.
 * Rumelhart, D. E., McClelland, J. L., & PDP Research Group. (1986). *Parallel distributed processing, volume 1: Explorations in the microstructure of cognition: Foundations*. Cambridge: The MIT Press.
