@@ -51,20 +51,39 @@ Prof. Dr. Hugo Cristo Sant'Anna: [hugo.cristo@ufes.br](mailto:hugo.cristo@ufes.b
 * MIT Technology Review (2025): [An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it](https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/)
 * Gobierno de México: [Principios de Chapultepec](https://secihti.mx/ciencia-y-humanidades/principios-de-chapultepec-declaracion-de-etica-y-buenas-practicas-para-el-uso-y-desarrollo-de-la-inteligencia-artificial/
 )
+* Poder 360 (16/08/2025):[Projeto desenvolve app com IA para tratar transtornos mentais no SUS](https://www.poder360.com.br/poder-saude/projeto-desenvolve-app-com-ia-para-tratar-transtornos-mentais-no-sus/)
+* CNET (26/02/2026): [Einstein AI Tool Doesn't Just Help With Homework. It Takes Over Your Role as a Student ](https://www.cnet.com/tech/services-and-software/companion-einstein-ai-tool/)
+* WSJ (02/03/2026): [Jack Dorsey Blamed AI for Block’s Massive Layoffs. Skeptics Aren’t Buying It](https://www.wsj.com/business/jack-dorseys-latest-far-out-bet-an-ai-future-with-fewer-employees-25655cda)
 * Semafor Flagship (2026): [AI skepticism grows among US youth](https://www.semafor.com/article/05/18/2026/ai-skepticism-grows-among-us-youth)
 * The Economist (Maio/2026)
     * [Is AI putting graduates out of work already?](http://archive.today/tRhhy)
     * [The jobs apocalypse: a (very) short history](https://archive.is/7i3JI)
     * [How to share the AI windfall](http://archive.today/6CkEm)
     * [Prepare for an AI jobs apocalypse](https://archive.is/x5Vxn)
+* APA (2026): [As AI use surges among psychologists, so do concerns about risks](https://www.apa.org/monitor/2026/04-05/ai-psychologists-experience-concerns)
+
 
 ## 09/07 - Tarde
 
-*Em desenvolvimento*
+1. Anatomia de modelos grandes de linguagem
+2. Encantadores de papagaios
+3. Testes (de Turing) do século XXI
+4. Gerações de LLMs: chatbots, copilotos, agentes
+5. Funil responsável para o uso de IAGs em pesquisas
+6. Checklist de uso de LLMs
+
+*Slides (protegido por senha)*: [PDF](./slides/02-chatbots-protected.pdf)
 
 ### Links da aula
+* [Tiktokenizer](https://tiktokenizer.vercel.app/)
 * Time (18/01/2023): [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
 * Gary Marcus, Revista New Yorker (2014): [What Comes After the Turing Test?](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test)
+* [Guia para Uso Ético e Responsável da Inteligência Artificial Generativa na Universidade Federal da Bahia](https://ufba.br/cgd)
+* [GUIDE-LLM checklist](https://llm-checklist.com/)
+* Recomendações da Anpad sobre uso de IA: [PDF](apendices/anpad.pdf)
+* Política de Integridade Científica: [Portaria CNPq Nº 2.664, de 6 de Março de 2026](https://www.in.gov.br/web/dou/-/portaria-cnpq-n-2.664-de-6-de-marco-de-2026-691779232)
+* Detector de textos gerados por IA: [Pangram](https://www.pangram.com/)
+* Revisor baseado em IA: [Reink](https://www.refine.ink/)
 
 ## 10/07 - Manhã
 
@@ -81,6 +100,7 @@ Prof. Dr. Hugo Cristo Sant'Anna: [hugo.cristo@ufes.br](mailto:hugo.cristo@ufes.b
 * Da Silva, J. A. (2003). *Inteligência humana: abordagens biológicas e cognitivas*. São Paulo: Lovise.
 * Feigenbaum, E. A., & McCorduck, P. (1983). *The fifth generation*. Addison-Wesley Pub. Disponível em [Open Library](https://archive.org/details/fifthgenerationa0000feig)
 * Feigenbaum, E., McCorduck, P., & Nii, H. P. (1988). *The rise of the expert company*. Times Books. Disponível em [OpenLibrary](https://archive.org/details/riseofexpertco00feig/mode/1up)
+* James, W. (1910). Psychology (vol 1). Holt.
 * Mitchell, M. (2019). *Artificial Intelligence: a guide for thinking humans*. New York: Farrar, Straus and Giroux.
 * Piaget, J. (1937/2003). *A construção do real na criança*. 5ª reimpressão. São Paulo: Ática.
 * Rumelhart, D. E., McClelland, J. L., & PDP Research Group. (1986). *Parallel distributed processing, volume 1: Explorations in the microstructure of cognition: Foundations*. Cambridge: The MIT Press.
@@ -93,6 +113,8 @@ Prof. Dr. Hugo Cristo Sant'Anna: [hugo.cristo@ufes.br](mailto:hugo.cristo@ufes.b
 * H. Bastani, O. Bastani, A. Sungu, H. Ge, Ö. Kabakcı, & R. Mariman, Generative AI without guardrails can harm learning: Evidence from high school mathematics, Proc. Natl. Acad. Sci. U.S.A. 122 (26) e2422633122, https://doi.org/10.1073/pnas.2422633122 (2025).
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In *Proceedings of the 2021 ACM conference on fairness, accountability, and transparency* (pp. 610-623). https://doi.org/10.1145/3442188.3445922
 * Birhane, A. (2021). Algorithmic injustice: A relational ethics approach. *Patterns*, 2(2). https://doi.org/10.1016/j.patter.2021.100205
+* Fengchun, M., & Holmes, W. (2024). Guia para a IA generativa na educação e na pesquisa. UNESCO. https://unesdoc.unesco.org/ark:/48223/pf0000390241
+* Feuerriegel, S., Barrie, C., Crockett, M. J., Globig, L. K., McLoughlin, K. L., Mirea, D. M., Spirling, A., Yang, D., Althoff, T., Antoniak, M., Argyle, L. P., Ashokkumar, A., Atari, M., Bailey, H., Bauer, K., Bhatt, U., Chai, Y., Chakraborty, T., Chandra, Y., Chen, H., … Horta Ribeiro, M. (2026). A reporting checklist for large language models in behavioural science. Nature human behaviour, 10.1038/s41562-026-02492-7. Advance online publication. https://doi.org/10.1038/s41562-026-02492-7
 * Kay, A., & Goldberg, A. (1977). Personal dynamic media. *Computer*, 10(3), 31-41. https://doi.org/10.1109/C-M.1977.217672
 * Jones, C. R., & Bergen, B. K. (2024). Does GPT-4 pass the Turing test?. *arXiv preprint* [arXiv:2310.20216](https://arxiv.org/abs/2310.20216).
 * Longo, L., Brcic, M., Cabitza, F., Choi, J., Confalonieri, R., Ser, J. D., Guidotti, R., Hayashi, Y., Herrera, F., Holzinger, A., Jiang, R., Khosravi, H., Lecue, F., Malgieri, G., Páez, A., Samek, W., Schneider, J., Speith, T., & Stumpf, S. (2024). Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions. *Information Fusion*, 106, 102301. https://doi.org/10.1016/j.inffus.2024.102301
