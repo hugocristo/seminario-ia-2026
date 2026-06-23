@@ -164,7 +164,7 @@ Resposta em [Markdown](./apendices/gemma3-1b-teste-t.md) gerado com Gemma3:1b e 
 
 ### Laboratório de código
 
-Exemplo de uso de Ollama+RStudio + Gemma3:1b para a geração e análise de textos: [copiloto.zip](./apendices/copiloto.zip) (5mb).
+Exemplo de uso de Ollama+RStudio+Gemma3:1b para a geração e análise de textos: [copiloto.zip](./apendices/copiloto.zip) (5mb).
 
 ## 10/07 - Tarde
 
