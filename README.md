@@ -74,6 +74,25 @@ Prof. Dr. Hugo Cristo Sant'Anna: [hugo.cristo@ufes.br](mailto:hugo.cristo@ufes.b
 
 *Slides (protegido por senha)*: [PDF](./slides/02-chatbots-protected.pdf)
 
+### Prompt para podcasts (NotebookLM)
+
+Resultados: [padrão (sem *prompt*)](./apendices/podcast-padrao.mp3) e [com *prompt* do tutor](./apendices/podcast-prompt.mp3). O "Momento da Pesquisa em Psicologia" inicia aproximadamente em 14min da versão com *prompt*.
+
+~~~
+Aja como um professor de métodos quantitativos de Psicologia e apresente os conceitos de modo didático, iniciando pelos fundamentos e aumentando gradualmente a complexidade da exposição.
+
+Adote o seguinte tom para o podcast:
+* Na abertura, liste os temas que serão abordados
+* Não utilize clichês de podcasts informais ("advogado do diabo", "explodir a cabeça")
+* Não empregue adjetivos exagerados ou qualificadores que não foram utilizados pelos próprios autores.
+* Os debatedores não devem fazer juízos de valor nem usar expressões como "o texto é brilhante", "a descoberta é fascinante" ou "o trabalho é seminal". 
+* Evite analogias que não estejam no trabalho
+* Detalhe os exemplos que estão no trabalho e não adicione casos externos
+* Indique eventuais referências que foram destacadas como importante pelos autores
+* Caso haja aplicações para a Psicologia, cite-as formalmente e anuncie esta seção como "Momento da Pesquisa em Psicologia"
+* Ao final, faça um resumo dos pontos abordados.
+~~~
+
 ### Links da aula
 * [Tiktokenizer](https://tiktokenizer.vercel.app/)
 * Time (18/01/2023): [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
@@ -85,9 +104,63 @@ Prof. Dr. Hugo Cristo Sant'Anna: [hugo.cristo@ufes.br](mailto:hugo.cristo@ufes.b
 * Detector de textos gerados por IA: [Pangram](https://www.pangram.com/)
 * Revisor baseado em IA: [Reink](https://www.refine.ink/)
 
+### Aplicações demonstradas no funil
+
+**Definir o problema**
+* [Elicit](https://elict.com)
+* [Concensus](https://concensus.com)
+* [Bohrium](https://bohrium.com)
+* [Scite.AI](https://scite.ai)
+
+**Mapear a Literatura**
+* [Research Rabbit](https://researchrabbit.ai)
+* [Connected Papers](https://connectedpapers.com)
+
+**Estudar a literatura**
+* [NotebookLM](https://notebooklm.google.com)
+
+**Gerar textos, gráficos e imagens*
+* [Google Gemini](https://gemini.google.com)
+
+**Elaborar relatórios de pesquisas*
+* [Google Gemini](https://gemini.google.com)
+
 ## 10/07 - Manhã
 
-*Em desenvolvimento*
+1. Motores de inferência locais e na nuvem
+2. Copilotos para código e análises estatísticas
+3. Copilotos para inferências sobre dados
+
+*Slides (protegido por senha)*: [PDF](./slides/03-copilotos-protected.pdf)
+
+### Downloads
+
+* [Linguagem R](https://cran.r-project.org/)
+* Editor de código [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads)
+* Motor de inferência [Ollama](https://ollama.com/download)
+* Motor de inferência [llama.cpp](https://github.com/ggml-org/llama.cpp) (avançado!)
+
+### Instalação de llama.cpp e modelos Hugging Face
+
+1. No Windows, acessar `Iniciar` e digitar `prompt` na barra de busca. 
+2. Clicar em `Prompt de comando`
+3. Digitar o comando a seguir e aguardar a instalação: 
+
+> winget install llama.cpp
+
+4. Instalar e servir o modelo via Hugging Face:
+
+> llama serve -hf Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF:Q8_0 -rea off
+
+5. Abrir o navegador no endereço `http://127.0.0.1:8080`
+
+*Obs.*: o argumento `-rea off` ao final da instrução disabilita a exibição do raciocínio do modelo. 
+
+### Exemplo de prompt para código
+
+> Gere um script em R para realizar um teste t bi-caudal com amostras independentes, nível de confiança de 95%.
+
+Resposta em [Markdown](./apendices/gemma3-1b-teste-t.md) gerado com Gemma3:1b e llama.cpp.
 
 ## 10/07 - Tarde
 
