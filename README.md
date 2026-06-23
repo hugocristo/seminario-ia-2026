@@ -162,6 +162,10 @@ Adote o seguinte tom para o podcast:
 
 Resposta em [Markdown](./apendices/gemma3-1b-teste-t.md) gerado com Gemma3:1b e llama.cpp.
 
+### Laboratório de código
+
+Exemplo de uso de Ollama+RStudio + Gemma3:1b para a geração e análise de textos: [copiloto.zip](./apendices/copiloto.zip) (5mb).
+
 ## 10/07 - Tarde
 
 *Em desenvolvimento*
