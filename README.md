@@ -119,10 +119,10 @@ Adote o seguinte tom para o podcast:
 **Estudar a literatura**
 * [NotebookLM](https://notebooklm.google.com)
 
-**Gerar textos, gráficos e imagens*
+**Gerar textos, gráficos e imagens**
 * [Google Gemini](https://gemini.google.com)
 
-**Elaborar relatórios de pesquisas*
+**Elaborar relatórios de pesquisas**
 * [Google Gemini](https://gemini.google.com)
 
 ## 10/07 - Manhã
