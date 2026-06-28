@@ -168,7 +168,19 @@ Exemplo de uso de Ollama+RStudio+Gemma3:1b para a geração e análise de textos
 
 ## 10/07 - Tarde
 
-*Em desenvolvimento*
+1. Trecos sob controle
+1. Princípios básicos de documentos Markdown
+1. Exemplos de agent harnesses
+1. Ciclos fracos: planejamento e execução
+1. Ciclos fortes: prompt inicial e autopesquisa
+1. Atividade avaliativa
+
+*Slides (protegido por senha)*: [PDF](./slides/04-agentes-protected.pdf)
+
+### Links
+
+* [Projeto Open Code (zip)](./apendices/ppgp-covid.zip)
+* [Projeto Claude Code (zip)](./apendices/ppgp-suicidio.zip)
 
 # Referências
 
